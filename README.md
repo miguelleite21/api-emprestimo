@@ -51,7 +51,7 @@ _Formato de resposta_
 }
 ```
 
-_Caso o valor do emprestimo seja menor que 50000
+_Caso o valor do emprestimo seja menor que 50.000
 
 ```json
 {
